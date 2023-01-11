@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Prompt', sans-serif;
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+h1 {
+    margin: 10px 0px 20px 0px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+div.profile_image_frame {
+    text-align: center;
+    margin: 30px 0px 0px 0px;
+}
+
+div.profile_image_frame img {
+    border-radius: 50%;
+    border: 2px solid #b6b6b6;
+    width: 300px;
+}
+
+div.row_center {
+    text-align: center;
+}
+
+div.row_center a.button {
+    display: block;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #0e2749;
+    padding: 5px;
+    margin: 15px auto;
+    border-radius: 10px;
+    font-size: 30px;
+    width: 400px;
+    font-weight: bold;
+    border: 2px solid #000000;
+}
+
+div.row_center a.button span {
+    margin: 0px 0px 0px 10px;
+}
+
+div.row_center a.button * {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+div.row_center a.button:hover {
+    background-color: #163c72;
+}
