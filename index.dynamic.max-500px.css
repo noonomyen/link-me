@@ -1,0 +1,44 @@
+@media only screen and (max-width: 500px) {
+    h1 {
+        margin: 2vw 0px 4vw 0px;
+        font-size: 7.6vw;
+    }
+
+    div.profile_image_frame {
+        margin: 6vw 0px 0px 0px;
+    }
+
+    div.profile_image_frame img {
+        border-radius: 50%;
+        border: 0.4vw solid #b6b6b6;
+        width: 60vw;
+    }
+
+    div.row_center {
+        margin-bottom: 30px;
+    }
+
+    div.row_center hr {
+        width: 96vw;
+        height: 0.6vw;
+        border-radius: 2vw;
+        margin: 8vw auto 3vw auto;
+    }
+
+    div.row_center h2 {
+        font-size: 6vw;
+    }
+
+    div.row_center a.button {
+        padding: 0.6vw;
+        margin: 3vw auto;
+        border-radius: 2vw;
+        font-size: 4vw;
+        width: 70vw;
+        border: 0.4vw solid #000000;
+    }
+
+    div.row_center a.button span {
+        margin: 0px 0px 0px 2vw;
+    }
+}
