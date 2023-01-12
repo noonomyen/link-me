@@ -44,6 +44,8 @@ div.row_center hr {
 div.row_center h2 {
     font-size: 30px;
     font-weight: bold;
+    width: 470px;
+    margin: auto;
 }
 
 div.row_center a.button {
