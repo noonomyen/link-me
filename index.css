@@ -15,6 +15,7 @@ h1 {
     text-align: center;
     font-size: 38px;
     font-weight: bold;
+    letter-spacing: 10px;
 }
 
 div.profile_image_frame {
@@ -46,6 +47,7 @@ div.row_center h2 {
     font-weight: bold;
     width: 470px;
     margin: auto;
+    letter-spacing: 5px;
 }
 
 div.row_center a.button {
@@ -64,6 +66,7 @@ div.row_center a.button {
 
 div.row_center a.button span {
     margin: 0px 0px 0px 10px;
+    letter-spacing: 2px;
 }
 
 div.row_center a.button * {

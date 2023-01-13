@@ -2,6 +2,7 @@
     h1 {
         margin: 2vw 0px 4vw 0px;
         font-size: 7.6vw;
+        letter-spacing: 2vw;
     }
 
     div.profile_image_frame {
@@ -15,7 +16,7 @@
     }
 
     div.row_center {
-        margin-bottom: 30px;
+        margin-bottom: 6vw;
     }
 
     div.row_center hr {
@@ -27,7 +28,9 @@
 
     div.row_center h2 {
         font-size: 6vw;
-    }
+        letter-spacing: 1vw;
+        width: 94vw;
+    }   
 
     div.row_center a.button {
         padding: 0.6vw;
@@ -40,5 +43,6 @@
 
     div.row_center a.button span {
         margin: 0px 0px 0px 2vw;
+        letter-spacing: 0.4vw;
     }
 }
